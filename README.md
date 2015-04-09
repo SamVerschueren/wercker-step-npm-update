@@ -2,17 +2,17 @@
 
 > Wercker step to update npm to the latest version
 
-# Usage
+## Usage
 
 ```
 - npm-update
 ```
 
-# Contributors
+## Contributors
 
 - Sam Verschueren (Author) [<sam.verschueren@gmail.com>]
 
-# License
+## License
 The MIT License (MIT)
 
 Copyright (c) 2015 Sam Verschueren
