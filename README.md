@@ -4,13 +4,29 @@
 
 ## Usage
 
+### Latest npm version
+
 ```
 - npm-update
+```
+
+### Specific npm version
+
+```
+- npm-update
+    version: 2.2.0
 ```
 
 ## Contributors
 
 - Sam Verschueren (Author) [<sam.verschueren@gmail.com>]
+
+## Changelog
+
+- **1.1.0**
+    - Possible to update to a specific version of npm
+- **1.0.0**
+    - Initial release
 
 ## License
 The MIT License (MIT)
